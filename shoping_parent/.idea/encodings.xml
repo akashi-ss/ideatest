@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shoping_basic_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shoping_basic_parent/shoping_basic_util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shoping_config_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shoping_eureka_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shoping_plat_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shoping_plat_parent/shoping_plat_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shoping_plat_parent/shoping_plat_service_8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shoping_zuul_server" charset="UTF-8" />
+  </component>
+</project>
